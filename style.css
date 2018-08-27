@@ -59,7 +59,7 @@ img{
     width: 66%;
 }
 
-@media(min-width:800px){
+@media(min-width:1000px){
     body{
         font-size: 1rem
 
